@@ -1,2 +1,2 @@
 # React-TicTacToe
-My very first react project
+My very first React project
